@@ -1,0 +1,89 @@
+#global{
+    height: 100%;
+    margin: auto;
+    background: #151515;
+    padding-top: 20px;
+}
+header{
+    margin-bottom: 20px;
+}
+header h1{
+    font-size: 50px;
+    font-family: Helvetica;
+    color: #fff;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(140,140,140,0.8);
+}
+.btnTweet{
+    width: 160px;
+    margin: auto;
+}
+
+.carteVisite{
+    vertical-align: top;
+    margin: auto;
+    width: 300px;
+    min-height: 75px;
+    text-align: center;
+    background: #fff;
+    padding-top: 25px;
+    
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    -ms-border-radius: 4px;
+    
+    box-shadow: 1px 1px 2px rgba(140,140,140,0.8);
+    -webkit-box-shadow: 1px 1px 2px rgba(140,140,140,0.8);
+    -moz-box-shadow: 1px 1px 2px rgba(140,140,140,0.8);
+    -o-box-shadow: 1px 1px 2px rgba(140,140,140,0.8);
+    -ms-box-shadow: 1px 1px 2px rgba(140,140,140,0.8);
+}
+.carteVisite img, .carteVisite span{
+    vertical-align: middle;
+}
+.carteVisite span{
+    font-size: 14px;
+    color: #444;
+    font-family: Verdana;
+    padding-left: 5px;
+}
+#tableOfCard{
+    margin: auto;
+    text-align: center;
+}
+.timeline{
+    border-top: 1px solid #ddd;
+    width: 250px;
+    margin: 20px auto;
+}
+.timeline h2{
+    font-weight: normal;
+    font-size: 16px;
+    font-family: Helvetica;
+    color: #999;
+    text-align: center;
+    text-shadow: 2px 2px 2px #eee;
+    margin: 20px 0;
+}
+.timeline p{
+    margin-bottom: 10px;
+    font-family: helvetica;
+    padding: 5px;
+    background: #4498ff;
+    color: #fff;
+    font-size: 12px;
+    
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    -ms-border-radius: 4px;
+
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    -moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    -o-box-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    -ms-box-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+}
